@@ -11,6 +11,9 @@ Je suis un étudiant de l'IUT Robert Schuman de l'université de Strasbourg. Je 
 ![Langages](https://img.shields.io/static/v1?label=Java&message=20%&color=orange)
 ![Langages](https://img.shields.io/static/v1?label=Autres&message=10%&color=gray)
 
+![Langages utilisés](https://img.shields.io/github/languages/count/raphaelSct?label=Langages%20utilis%C3%A9s)
+
+
 - Frameworks et bibliothèques : React, Node.js, Godot
 - Outils de développement : Git, Visual Studio Code, Visual Studio, Android Studio, Environnement Jetbrain, Godot
 
