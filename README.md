@@ -2,7 +2,8 @@
 
 ## Qui suis-je ?
 
-Je suis un étudiant de l'IUT Robert Schuman de l'université de Strasbourg. Je suis actuellement en deuxième année de mon cursus, j'ai 20 ans et je suis motivé par mes études !
+Je suis un étudiant de l'IUT Robert Schuman de l'université de Strasbourg. Je suis actuellement en échange au Canada pour la troisième année de mon BUT. 
+Je fais donc partie du programme de génie logiciel à l'école de technologie supérieur ETS de Montréal.
 
 ## Mes compétences
 
