@@ -6,7 +6,7 @@ Je suis un étudiant de l'IUT Robert Schuman de l'université de Strasbourg. Je 
 
 ## Mes compétences
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphelSct)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphelSct"/>
 
 
 
