@@ -6,7 +6,7 @@ Je suis un étudiant de l'IUT Robert Schuman de l'université de Strasbourg. Je 
 
 ## Mes compétences
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphelSct"/>
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=raphelSctE&type=languages)
 
 
 
